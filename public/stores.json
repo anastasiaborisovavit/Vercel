@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Happy Pets",
+      "address": "123 Main Street, Anytown",
+      "latitude": 51.505,
+      "longitude": -0.09
+    },
+    {
+      "id": 2,
+      "name": "The Pet Shop",
+      "address": "456 Oak Avenue, Anytown",
+      "latitude": 51.51,
+      "longitude": -0.12
+    }
+  ]
